@@ -41,7 +41,6 @@
 ## C# # 
 
 - [alterNERDtive/bindED](https://github.com/alterNERDtive/bindED) - This VoiceAttack plugin reads keybindings in Elite:Dangerous and stores them as VoiceAttack variables.
-- [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
 
 ## C++ 
