@@ -266,6 +266,7 @@
 
 ## Swift 
 
+- [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [royfoxen/Guitar-Notes](https://github.com/royfoxen/Guitar-Notes) - Open Source Guitar App
 - [cgoldsby/LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar that responds to text field interactions
 
