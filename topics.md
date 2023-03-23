@@ -103,6 +103,7 @@
 - [storybook](#storybook)
 - [svelte](#svelte)
 - [swift](#swift)
+- [swiftui](#swiftui)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
@@ -385,6 +386,7 @@
 
 ## ios 
 
+- [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [wonday/react-native-pdf](https://github.com/wonday/react-native-pdf) - A &lt;Pdf /&gt; component for react-native
 
 ## java 
@@ -789,7 +791,12 @@
 
 ## swift 
 
+- [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [cgoldsby/LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar that responds to text field interactions
+
+## swiftui 
+
+- [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 
 ## terminal 
 
