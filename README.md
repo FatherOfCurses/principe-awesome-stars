@@ -141,7 +141,6 @@
 - [0xfe/vexchords](https://github.com/0xfe/vexchords) - JavaScript Chord Charts
 - [madewithlove/music-fns](https://github.com/madewithlove/music-fns) - a JavaScript music utility library that contains small music notation related functions.
 - [gregjopa/HTML5-Guitar-Tab-Player](https://github.com/gregjopa/HTML5-Guitar-Tab-Player) - A music player plug-in for Vexflow
-- [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
 - [nearform/react-animation](https://github.com/nearform/react-animation) - Animation components and styles for React projects
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
@@ -299,6 +298,7 @@
 - [pierpo/react-archer](https://github.com/pierpo/react-archer) - 🏹 Draw arrows between React elements 🖋
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
+- [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
 - [gokcan/react-shimmer](https://github.com/gokcan/react-shimmer) - 🌠 Async loading, performant Image component for React.js
 - [cormacrelf/angular-skyhook](https://github.com/cormacrelf/angular-skyhook) - An implementation of react-dnd for Angular.
