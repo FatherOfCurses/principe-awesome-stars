@@ -312,6 +312,7 @@
 ## font 
 
 - [justvanrossum/nabla](https://github.com/justvanrossum/nabla) - Typearture's Isometric COLRv1 Typeface
+- [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [uswds/public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
 
 ## framework 
