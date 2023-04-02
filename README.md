@@ -256,6 +256,7 @@
 
 ## SCSS 
 
+- [primefaces/primeng-sass-theme](https://github.com/primefaces/primeng-sass-theme) - PrimeNG Theming with SASS
 - [patternfly/patternfly](https://github.com/patternfly/patternfly) - This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here.
 
 ## Shell 
