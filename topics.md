@@ -549,6 +549,7 @@
 
 ## others 
 
+- [primefaces/primeng-sass-theme](https://github.com/primefaces/primeng-sass-theme) - PrimeNG Theming with SASS
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 - [MGX3D/pegstr](https://github.com/MGX3D/pegstr) - Pegboard Parametric Supports Generator
 - [MattIPv4/divoom-control](https://github.com/MattIPv4/divoom-control) - A little script/CLI for controlling Divoom devices (Pixoo etc.)
