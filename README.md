@@ -234,12 +234,13 @@
 
 ## Python 
 
+- [msambol/youtube](https://github.com/msambol/youtube) - Coding examples from my YouTube channel
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [SomethingWithComputers/pixoo](https://github.com/SomethingWithComputers/pixoo) - A library to help you make the most out of your Pixoo 64 (and hopefully soon other Wi-Fi enabled Pixoos)
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [justvanrossum/nabla](https://github.com/justvanrossum/nabla) - Typearture's Isometric COLRv1 Typeface
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [camerahacks/lightroom-macro-pad](https://github.com/camerahacks/lightroom-macro-pad) - Lightroom Macro Pad With CircuitPython Boards
 - [riffnshred/nhl-led-scoreboard](https://github.com/riffnshred/nhl-led-scoreboard) - 🚨 Display NHL live score, stats, and more of your favorite teams, on a Raspberry Pi driven RGB LED matrix. 🚨
