@@ -81,6 +81,7 @@
 - [opencv](#opencv)
 - [others](#others)
 - [parsing](#parsing)
+- [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -584,7 +585,6 @@
 - [Alhadis/language-turing](https://github.com/Alhadis/language-turing) - Turing language support for Atom. :maple_leaf:
 - [Open-Turing-Project/OpenTuring](https://github.com/Open-Turing-Project/OpenTuring) - An open source version of the Windows Turing interpreter. Features speed improvements and new features.
 - [m1guelpf/dapp-starter](https://github.com/m1guelpf/dapp-starter) - The template I use to kickstart all my web3 apps.
-- [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - All of my custom keyboards, keymaps, and case files.
@@ -656,6 +656,11 @@
 ## parsing 
 
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+## penetration-testing 
+
+- [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
+- [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
 
 ## php 
 
