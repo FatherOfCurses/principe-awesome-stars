@@ -126,7 +126,6 @@
 - [danigb/note-parser](https://github.com/danigb/note-parser) - Parse notes with javascript
 - [saebekassebil/teoria](https://github.com/saebekassebil/teoria) - Javascript taught Music Theory
 - [0xfe/vextab](https://github.com/0xfe/vextab) - A VexTab Parser for VexFlow
-- [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [patternfly/angular-patternfly](https://github.com/patternfly/angular-patternfly) - This repo contains instructions and the code for a set of Angular 1 components for the PatternFly project.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [atomiks/tippyjs-react](https://github.com/atomiks/tippyjs-react) - React component for Tippy.js (official)
@@ -293,6 +292,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [zuramai/starback.js](https://github.com/zuramai/starback.js) - Create a beautiful star falling background with starback.js
 - [yiliansource/party-js](https://github.com/yiliansource/party-js) - A JavaScript library to brighten up your user's site experience with visual effects!
+- [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [ricokahler/hacker-ui](https://github.com/ricokahler/hacker-ui) - A design system for the modern developer. (development on hiatus)
 - [RobertBroersma/bigheads](https://github.com/RobertBroersma/bigheads) - Easily create characters for your projects
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
