@@ -279,6 +279,7 @@
 
 ## TypeScript 
 
+- [codeforboston/police-data-trust](https://github.com/codeforboston/police-data-trust) - A national archive of police data collected by journalists, lawyers, and activists around the country.
 - [vincanger/coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [resolvetosavelives/healthicons](https://github.com/resolvetosavelives/healthicons) - A collection of open source icons for public health projects.
