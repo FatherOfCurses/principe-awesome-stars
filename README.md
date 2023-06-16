@@ -37,7 +37,7 @@
 
 - [Open-Turing-Project/OpenTuring](https://github.com/Open-Turing-Project/OpenTuring) - An open source version of the Windows Turing interpreter. Features speed improvements and new features.
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
-- [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - All of my custom keyboards, keymaps, and case files.
+- [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 
 ## C# # 
 
