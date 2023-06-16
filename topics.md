@@ -11,6 +11,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [arduino](#arduino)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [aws](#aws)
@@ -158,6 +159,10 @@
 - [GagePielsticker/AWS-Api-Template](https://github.com/GagePielsticker/AWS-Api-Template) - A template for starting an AWS based serverless api. This utilizes lambda, api-gateway, WAFv2 and other various services to build a scalable and highly-available api. Deployment of all infrastructure 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [CharlesMangwa/react-data-fetching](https://github.com/CharlesMangwa/react-data-fetching) - 🎣 Declarative data fetching for React.
+
+## arduino 
+
+- [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 
 ## awesome 
 
@@ -596,7 +601,6 @@
 - [m1guelpf/dapp-starter](https://github.com/m1guelpf/dapp-starter) - The template I use to kickstart all my web3 apps.
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
-- [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - All of my custom keyboards, keymaps, and case files.
 - [joshwcomeau/beatmapper](https://github.com/joshwcomeau/beatmapper) - A 3D editor for creating Beat Saber maps
 - [atomicobject/typescript-permissions-demo](https://github.com/atomicobject/typescript-permissions-demo) - 
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -714,6 +718,7 @@
 
 ## raspberry-pi 
 
+- [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 - [kylejohnsonkj/ft-artwork](https://github.com/kylejohnsonkj/ft-artwork) - View now playing album artwork on an rgb led matrix (raspberry pi project)
 - [riffnshred/nhl-led-scoreboard](https://github.com/riffnshred/nhl-led-scoreboard) - 🚨 Display NHL live score, stats, and more of your favorite teams, on a Raspberry Pi driven RGB LED matrix. 🚨
 - [reuterbal/photobooth](https://github.com/reuterbal/photobooth) - A flexible photobooth software
