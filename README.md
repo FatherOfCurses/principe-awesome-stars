@@ -242,7 +242,7 @@
 ## Python 
 
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
-- [msambol/youtube](https://github.com/msambol/youtube) - Coding examples from my YouTube channel
+- [msambol/dsa](https://github.com/msambol/dsa) - Data structures and algorithms in X minutes. Code samples from my Youtube channel.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [SomethingWithComputers/pixoo](https://github.com/SomethingWithComputers/pixoo) - A library to help you make the most out of your Pixoo 64 (and hopefully soon other Wi-Fi enabled Pixoos)
