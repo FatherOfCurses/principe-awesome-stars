@@ -606,7 +606,6 @@
 - [wesbos/dotfiles](https://github.com/wesbos/dotfiles) - Hey wes what settings do you use?
 - [BSLang/BS](https://github.com/BSLang/BS) - Implementation of the BS language as created by Mark Rendle at BuildStuff.lt 2014. Refer to this repo for information and canonical list of language features
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
-- [clemdesign/angular-cd-timer](https://github.com/clemdesign/angular-cd-timer) - Angular timer component with countup, countdown, and multiple options...
 - [basarat/algorithms-book](https://github.com/basarat/algorithms-book) - The book a CS student can use to refresh their knowledge of Data Structures and Algorithms or just review how to do them in TypeScript
 - [WebDevSimplified/Learn-GraphQL](https://github.com/WebDevSimplified/Learn-GraphQL) - 
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
