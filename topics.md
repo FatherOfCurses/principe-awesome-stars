@@ -88,6 +88,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [programming](#programming)
 - [pwa](#pwa)
 - [python](#python)
@@ -701,6 +702,10 @@
 ## powershell 
 
 - [kylejohnsonkj/ft-artwork](https://github.com/kylejohnsonkj/ft-artwork) - View now playing album artwork on an rgb led matrix (raspberry pi project)
+
+## privacy 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## programming 
 
