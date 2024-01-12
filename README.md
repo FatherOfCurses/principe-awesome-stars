@@ -78,7 +78,7 @@
 
 ## HTML 
 
-- [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 16 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier :rocket:
+- [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 17 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier :rocket:
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [briebug/jest-schematic](https://github.com/briebug/jest-schematic) - Angular schematic for adding Jest and the required files to an Angular CLI project
 - [uswds/public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
@@ -268,7 +268,7 @@
 
 ## Shell 
 
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 
 ## Swift 
 
