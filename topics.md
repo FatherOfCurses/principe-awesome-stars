@@ -253,6 +253,7 @@
 ## css 
 
 - [joe-bell/loading-disco](https://github.com/joe-bell/loading-disco) - An alternative to the loading spinner 🪩
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [AakashRao-dev/cheatsheets-for-developers](https://github.com/AakashRao-dev/cheatsheets-for-developers) - 📊 Get all of my CSS Cheatsheets from here which I have created & shared on twitter. Thanks for the support. 💜
 - [code-with-ahsan/js-beginner-workspace](https://github.com/code-with-ahsan/js-beginner-workspace) - 
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -421,6 +422,7 @@
 ## html 
 
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [code-with-ahsan/js-beginner-workspace](https://github.com/code-with-ahsan/js-beginner-workspace) - 
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
@@ -447,6 +449,7 @@
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [workbenchdev/Workbench](https://github.com/workbenchdev/Workbench) - Code playground for GNOME 🛠️
