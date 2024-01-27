@@ -122,6 +122,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -941,6 +942,10 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+
+## web-development 
+
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## webapp 
 
