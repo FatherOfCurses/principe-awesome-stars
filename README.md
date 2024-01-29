@@ -167,7 +167,7 @@
 - [jamieholst/selectToAutocomplete](https://github.com/jamieholst/selectToAutocomplete) - Turns any select tag into an autocomplete field with weighted options, synonyms and loose matching
 - [gisderdube/graceful-error-handling](https://github.com/gisderdube/graceful-error-handling) - 
 - [NickPiscitelli/Glider.js](https://github.com/NickPiscitelli/Glider.js) - A fast, lightweight, dependency free, native scrolling carousel alternative!
-- [skidding/jobs-done](https://github.com/skidding/jobs-done) - Ritual app for ending the work day inspired by Deep Work
+- [ovidiuch/jobs-done](https://github.com/ovidiuch/jobs-done) - Ritual app for ending the work day inspired by Deep Work
 - [sghall/react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
 - [exogen/react-typesetting](https://github.com/exogen/react-typesetting) - React typesetting components.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
