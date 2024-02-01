@@ -302,7 +302,7 @@
 - [omnibrain/svguitar](https://github.com/omnibrain/svguitar) - Create beautiful SVG guitar chord charts
 - [4lejandrito/react-guitar](https://github.com/4lejandrito/react-guitar) - A beautiful and accessible guitar component for React. ⚛️ 🎸
 - [wellyshen/use-places-autocomplete](https://github.com/wellyshen/use-places-autocomplete) - 😎 📍 React hook for Google Maps Places Autocomplete.
-- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 17 & Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React, with native TypeScript support.
 - [pierpo/react-archer](https://github.com/pierpo/react-archer) - 🏹 Draw arrows between React elements 🖋
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
