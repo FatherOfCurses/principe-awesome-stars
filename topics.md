@@ -208,7 +208,7 @@
 ## bootstrap 
 
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
-- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 17 & Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 
 ## chrome-extension 
@@ -258,7 +258,7 @@
 - [AakashRao-dev/cheatsheets-for-developers](https://github.com/AakashRao-dev/cheatsheets-for-developers) - 📊 Get all of my CSS Cheatsheets from here which I have created & shared on twitter. Thanks for the support. 💜
 - [code-with-ahsan/js-beginner-workspace](https://github.com/code-with-ahsan/js-beginner-workspace) - 
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 17 & Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
 - [callum-hart/immutable-styles](https://github.com/callum-hart/immutable-styles) - A library for styling web interfaces with a focus on predictability and robustness. It uses immutability to remove side effects often tied to CSS, allowing UI bugs to be caught ahead of time!
 - [ankythshukla/underexpress](https://github.com/ankythshukla/underexpress) - A free, responsive, ready to use website ui kit, built with bootstrap 4.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -290,7 +290,7 @@
 ## design 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 17 & Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
 
 ## devops 
 
@@ -427,7 +427,7 @@
 - [code-with-ahsan/js-beginner-workspace](https://github.com/code-with-ahsan/js-beginner-workspace) - 
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
-- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 17 & Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 
 ## html5 
@@ -465,7 +465,7 @@
 - [async-labs/builderbook](https://github.com/async-labs/builderbook) - Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database.
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
-- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 17 & Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 - [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
@@ -505,7 +505,7 @@
 
 ## library 
 
-- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 17 & Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
 
 ## linux 
 
@@ -533,7 +533,7 @@
 
 ## material-design 
 
-- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 17 & Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
 - [jxnblk/rmdi](https://github.com/jxnblk/rmdi) - React Material Design Icons – built with Pixo, Styled Components, and Styled System
 
 ## mongodb 
@@ -766,7 +766,7 @@
 - [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [danielstern/isomorphic-react](https://github.com/danielstern/isomorphic-react) - A simple but powerful React application built on a standards-compliant back-end
-- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 17 & Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React, with native TypeScript support.
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [pierpo/react-archer](https://github.com/pierpo/react-archer) - 🏹 Draw arrows between React elements 🖋
@@ -795,7 +795,7 @@
 ## reactjs 
 
 - [atomiks/tippyjs-react](https://github.com/atomiks/tippyjs-react) - React component for Tippy.js (official)
-- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 17 & Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
