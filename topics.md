@@ -21,6 +21,7 @@
 - [bootstrap](#bootstrap)
 - [chrome-extension](#chrome-extension)
 - [code](#code)
+- [code-quality](#code-quality)
 - [coding](#coding)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -220,6 +221,10 @@
 - [saviomartin/codehouse](https://github.com/saviomartin/codehouse) - A whole new world of 300+ developer cheatsheets
 - [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 
+## code-quality 
+
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
+
 ## coding 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -411,7 +416,6 @@
 - [zuramai/starback.js](https://github.com/zuramai/starback.js) - Create a beautiful star falling background with starback.js
 - [patternfly/patternfly](https://github.com/patternfly/patternfly) - This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
 - [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
