@@ -75,6 +75,7 @@
 - [mongoose](#mongoose)
 - [music](#music)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -557,6 +558,10 @@
 ## mysql 
 
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
+
+## natural-language-processing 
+
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 
 ## nextjs 
 
