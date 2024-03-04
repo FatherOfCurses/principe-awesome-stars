@@ -776,7 +776,7 @@
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [danielstern/isomorphic-react](https://github.com/danielstern/isomorphic-react) - A simple but powerful React application built on a standards-compliant back-end
 - [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
-- [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React, with native TypeScript support.
+- [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [pierpo/react-archer](https://github.com/pierpo/react-archer) - 🏹 Draw arrows between React elements 🖋
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
