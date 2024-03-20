@@ -294,7 +294,7 @@
 - [yiliansource/party-js](https://github.com/yiliansource/party-js) - A JavaScript library to brighten up your user's site experience with visual effects!
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [ricokahler/hacker-ui](https://github.com/ricokahler/hacker-ui) - A design system for the modern developer. (development on hiatus)
-- [RobertBroersma/bigheads](https://github.com/RobertBroersma/bigheads) - Easily create characters for your projects
+- [RobertBroersma/beanheads](https://github.com/RobertBroersma/beanheads) - Easily create characters for your projects
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
 - [acro5piano/react-native-big-calendar](https://github.com/acro5piano/react-native-big-calendar) - gcal/outlook like calendar component for React Native
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
