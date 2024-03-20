@@ -650,7 +650,7 @@
 - [ricokahler/hacker-ui](https://github.com/ricokahler/hacker-ui) - A design system for the modern developer. (development on hiatus)
 - [patternfly/patternfly-design-kit](https://github.com/patternfly/patternfly-design-kit) - The PatternFly Design Kit is a Sketch library used for creating PatternFly accurate design mockups
 - [patternfly/angular-patternfly](https://github.com/patternfly/angular-patternfly) - This repo contains instructions and the code for a set of Angular 1 components for the PatternFly project.
-- [RobertBroersma/bigheads](https://github.com/RobertBroersma/bigheads) - Easily create characters for your projects
+- [RobertBroersma/beanheads](https://github.com/RobertBroersma/beanheads) - Easily create characters for your projects
 - [kywagaha/gemini](https://github.com/kywagaha/gemini) - A dope, easy-on-the-eyes, currently-playing viewer for Spotify
 - [TehloWasTaken/HomeDashboard](https://github.com/TehloWasTaken/HomeDashboard) - A requested Github Repo for my Grafana Home Dashboard
 - [trishagee/mongodb-getting-started](https://github.com/trishagee/mongodb-getting-started) - Some examples of how to use the MongoDB Java driver, via unit tests.
