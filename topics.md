@@ -714,7 +714,7 @@
 
 ## powershell 
 
-- [kylejohnsonkj/ft-artwork](https://github.com/kylejohnsonkj/ft-artwork) - View now playing album artwork on an rgb led matrix (raspberry pi project)
+- [kylejohnsonkj/ft-artwork](https://github.com/kylejohnsonkj/ft-artwork) - View now playing album artwork on an rgb led matrix (raspberry pi project v1)
 
 ## privacy 
 
@@ -753,7 +753,7 @@
 ## raspberry-pi 
 
 - [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
-- [kylejohnsonkj/ft-artwork](https://github.com/kylejohnsonkj/ft-artwork) - View now playing album artwork on an rgb led matrix (raspberry pi project)
+- [kylejohnsonkj/ft-artwork](https://github.com/kylejohnsonkj/ft-artwork) - View now playing album artwork on an rgb led matrix (raspberry pi project v1)
 - [riffnshred/nhl-led-scoreboard](https://github.com/riffnshred/nhl-led-scoreboard) - 🚨 Display NHL live score, stats, and more of your favorite teams, on a Raspberry Pi driven RGB LED matrix. 🚨
 - [reuterbal/photobooth](https://github.com/reuterbal/photobooth) - A flexible photobooth software
 - [jonashcroft/Nowify](https://github.com/jonashcroft/Nowify) - A Spotify 'Now Playing' screen designed for Raspberry Pi
