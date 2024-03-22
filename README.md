@@ -10,6 +10,7 @@
 - [C++](#c++)
 - [CSON](#cson)
 - [CSS](#css)
+- [Dockerfile](#dockerfile)
 - [Elm](#elm)
 - [F#](#f#)
 - [Go](#go)
@@ -58,6 +59,10 @@
 
 - [Vectopus/Atlas-icons-font](https://github.com/Vectopus/Atlas-icons-font) - 
 - [joe-bell/loading-disco](https://github.com/joe-bell/loading-disco) - An alternative to the loading spinner 🪩
+
+## Dockerfile 
+
+- [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 
 ## Elm 
 
@@ -219,7 +224,6 @@
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [ardalis/new-software-project-checklist](https://github.com/ardalis/new-software-project-checklist) - The ultimate new software project decision/question checklist
 - [TechGeek01/Homelab-Ansible](https://github.com/TechGeek01/Homelab-Ansible) - A collection of my Ansible stuffs
