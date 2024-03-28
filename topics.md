@@ -147,7 +147,7 @@
 
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 17 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier :rocket:
-- [code-with-ahsan/ng-2048](https://github.com/code-with-ahsan/ng-2048) - The 2048 game built with Angular & Tailwind CSS
+- [AhsanAyaz/ng-2048](https://github.com/AhsanAyaz/ng-2048) - The 2048 game built with Angular & Tailwind CSS
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [briebug/jest-schematic](https://github.com/briebug/jest-schematic) - Angular schematic for adding Jest and the required files to an Angular CLI project
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
@@ -913,7 +913,7 @@
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 17 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier :rocket:
-- [code-with-ahsan/ng-2048](https://github.com/code-with-ahsan/ng-2048) - The 2048 game built with Angular & Tailwind CSS
+- [AhsanAyaz/ng-2048](https://github.com/AhsanAyaz/ng-2048) - The 2048 game built with Angular & Tailwind CSS
 - [AvraamMavridis/Algorithms-Data-Structures-in-Typescript](https://github.com/AvraamMavridis/Algorithms-Data-Structures-in-Typescript) - 
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
