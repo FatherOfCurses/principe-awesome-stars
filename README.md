@@ -292,7 +292,7 @@
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [atomicobject/typescript-permissions-demo](https://github.com/atomicobject/typescript-permissions-demo) - 
 - [yinkakun/wakatime-github-commit](https://github.com/yinkakun/wakatime-github-commit) - A serverless function that auto commits your daily total time tracked on Wakatime to Github. Using Netlify Scheduled Functions, Github GraphQL API, and Wakatime API.
-- [code-with-ahsan/ng-2048](https://github.com/code-with-ahsan/ng-2048) - The 2048 game built with Angular & Tailwind CSS
+- [AhsanAyaz/ng-2048](https://github.com/AhsanAyaz/ng-2048) - The 2048 game built with Angular & Tailwind CSS
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [zuramai/starback.js](https://github.com/zuramai/starback.js) - Create a beautiful star falling background with starback.js
 - [yiliansource/party-js](https://github.com/yiliansource/party-js) - A JavaScript library to brighten up your user's site experience with visual effects!
