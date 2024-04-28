@@ -147,7 +147,7 @@
 ## angular 
 
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 17 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier :rocket:
+- [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 17 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material & Prettier :rocket:
 - [AhsanAyaz/ng-2048](https://github.com/AhsanAyaz/ng-2048) - The 2048 game built with Angular & Tailwind CSS
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [briebug/jest-schematic](https://github.com/briebug/jest-schematic) - Angular schematic for adding Jest and the required files to an Angular CLI project
@@ -309,7 +309,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
-- [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 17 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier :rocket:
+- [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 17 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material & Prettier :rocket:
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Vets-Who-Code/windows-dev-guide](https://github.com/Vets-Who-Code/windows-dev-guide) - The Complete Windows Web Developer Setup Guide
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -344,7 +344,7 @@
 
 ## eslint 
 
-- [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 17 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier :rocket:
+- [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 17 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material & Prettier :rocket:
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 
@@ -917,7 +917,7 @@
 
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
-- [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 17 Starter with Storybook, Transloco, Jest, TestCafe, Docker, ESLint, Material & Prettier :rocket:
+- [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 17 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material & Prettier :rocket:
 - [AhsanAyaz/ng-2048](https://github.com/AhsanAyaz/ng-2048) - The 2048 game built with Angular & Tailwind CSS
 - [AvraamMavridis/Algorithms-Data-Structures-in-Typescript](https://github.com/AvraamMavridis/Algorithms-Data-Structures-in-Typescript) - 
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
