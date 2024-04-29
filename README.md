@@ -83,6 +83,7 @@
 
 ## HTML 
 
+- [FrontendMasters/front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024) - A guide to modern front-end web development / engineering.
 - [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 17 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material & Prettier :rocket:
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [briebug/jest-schematic](https://github.com/briebug/jest-schematic) - Angular schematic for adding Jest and the required files to an Angular CLI project
