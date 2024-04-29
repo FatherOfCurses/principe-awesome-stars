@@ -48,6 +48,7 @@
 - [font](#font)
 - [framework](#framework)
 - [frameworks](#frameworks)
+- [frontend](#frontend)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -371,6 +372,10 @@
 ## frameworks 
 
 - [uwidev/life-disciplines-projects](https://github.com/uwidev/life-disciplines-projects) - Life-Disciplines-Projects (LDP) is a life-management framework built within Obsidian. Feel free to transform it for your own personal needs.
+
+## frontend 
+
+- [FrontendMasters/front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024) - A guide to modern front-end web development / engineering.
 
 ## git 
 
