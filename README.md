@@ -143,6 +143,7 @@
 - [prasannamestha/react-gradient-progress](https://github.com/prasannamestha/react-gradient-progress) - Simple light circular progress bars in react with gradient.
 - [ziggysauce/Voyage2-Turtles-02](https://github.com/ziggysauce/Voyage2-Turtles-02) - Developer-focused new tab extension for Chrome
 - [mongodb-university/mflix-ui](https://github.com/mongodb-university/mflix-ui) - MongoDB M220 Courses React Front-End
+- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [ondras/browsershot](https://github.com/ondras/browsershot) - Utility library for programmatic screenshots via getDisplayMedia
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 - [0xfe/vexchords](https://github.com/0xfe/vexchords) - JavaScript Chord Charts
@@ -309,7 +310,6 @@
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.
 - [pierpo/react-archer](https://github.com/pierpo/react-archer) - 🏹 Draw arrows between React elements 🖋
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
-- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
 - [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
