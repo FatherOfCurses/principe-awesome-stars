@@ -231,7 +231,7 @@
 - [sapegin/jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) - Jest cheat sheet
 - [TehloWasTaken/HomeDashboard](https://github.com/TehloWasTaken/HomeDashboard) - A requested Github Repo for my Grafana Home Dashboard
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
-- [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+- [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 - [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
