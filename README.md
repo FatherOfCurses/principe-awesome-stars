@@ -288,7 +288,7 @@
 - [resolvetosavelives/healthicons](https://github.com/resolvetosavelives/healthicons) - A collection of open source icons for public health projects.
 - [mehulmpt/ghost-cms-nextjs](https://github.com/mehulmpt/ghost-cms-nextjs) - 
 - [m1guelpf/dapp-starter](https://github.com/m1guelpf/dapp-starter) - The template I use to kickstart all my web3 apps.
-- [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic backup and other advanced features in Obsidian.md
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [atomicobject/typescript-permissions-demo](https://github.com/atomicobject/typescript-permissions-demo) - 
 - [yinkakun/wakatime-github-commit](https://github.com/yinkakun/wakatime-github-commit) - A serverless function that auto commits your daily total time tracked on Wakatime to Github. Using Netlify Scheduled Functions, Github GraphQL API, and Wakatime API.
