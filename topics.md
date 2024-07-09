@@ -635,7 +635,7 @@
 - [Alhadis/language-turing](https://github.com/Alhadis/language-turing) - Turing language support for Atom. :maple_leaf:
 - [Open-Turing-Project/OpenTuring](https://github.com/Open-Turing-Project/OpenTuring) - An open source version of the Windows Turing interpreter. Features speed improvements and new features.
 - [m1guelpf/dapp-starter](https://github.com/m1guelpf/dapp-starter) - The template I use to kickstart all my web3 apps.
-- [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic backup and other advanced features in Obsidian.md
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [joshwcomeau/beatmapper](https://github.com/joshwcomeau/beatmapper) - A 3D editor for creating Beat Saber maps
 - [atomicobject/typescript-permissions-demo](https://github.com/atomicobject/typescript-permissions-demo) - 
