@@ -90,6 +90,7 @@
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [php](#php)
+- [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -118,6 +119,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
@@ -629,7 +631,6 @@
 - [MattIPv4/divoom-control](https://github.com/MattIPv4/divoom-control) - A little script/CLI for controlling Divoom devices (Pixoo etc.)
 - [resolvetosavelives/healthicons](https://github.com/resolvetosavelives/healthicons) - A collection of open source icons for public health projects.
 - [Vectopus/Atlas-icons-font](https://github.com/Vectopus/Atlas-icons-font) - 
-- [SomethingWithComputers/pixoo](https://github.com/SomethingWithComputers/pixoo) - A library to help you make the most out of your Pixoo 64 (and hopefully soon other Wi-Fi enabled Pixoos)
 - [mehulmpt/ghost-cms-nextjs](https://github.com/mehulmpt/ghost-cms-nextjs) - 
 - [Alhadis/language-turing](https://github.com/Alhadis/language-turing) - Turing language support for Atom. :maple_leaf:
 - [Open-Turing-Project/OpenTuring](https://github.com/Open-Turing-Project/OpenTuring) - An open source version of the Windows Turing interpreter. Features speed improvements and new features.
@@ -717,6 +718,10 @@
 
 - [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 
+## pixel-art 
+
+- [SomethingWithComputers/pixoo](https://github.com/SomethingWithComputers/pixoo) - A library to help you make the most out of your Pixoo 64 (and hopefully soon other Wi-Fi enabled Pixoos)
+
 ## postgresql 
 
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
@@ -761,6 +766,7 @@
 
 ## raspberry-pi 
 
+- [SomethingWithComputers/pixoo](https://github.com/SomethingWithComputers/pixoo) - A library to help you make the most out of your Pixoo 64 (and hopefully soon other Wi-Fi enabled Pixoos)
 - [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 - [kylejohnsonkj/ft-artwork](https://github.com/kylejohnsonkj/ft-artwork) - View now playing album artwork on an rgb led matrix (raspberry pi project v1)
 - [riffnshred/nhl-led-scoreboard](https://github.com/riffnshred/nhl-led-scoreboard) - 🚨 Display NHL live score, stats, and more of your favorite teams, on a Raspberry Pi driven RGB LED matrix. 🚨
@@ -900,6 +906,10 @@
 ## swiftui 
 
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
+
+## tailwindcss 
+
+- [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 
 ## terminal 
 
