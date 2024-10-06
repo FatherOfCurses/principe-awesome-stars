@@ -303,7 +303,7 @@
 - [yiliansource/party-js](https://github.com/yiliansource/party-js) - A JavaScript library to brighten up your user's site experience with visual effects!
 - [ricokahler/hacker-ui](https://github.com/ricokahler/hacker-ui) - A design system for the modern developer. (development on hiatus)
 - [RobertBroersma/beanheads](https://github.com/RobertBroersma/beanheads) - Easily create characters for your projects
-- [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
+- [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [acro5piano/react-native-big-calendar](https://github.com/acro5piano/react-native-big-calendar) - gcal/outlook like calendar component for React Native
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [omnibrain/svguitar](https://github.com/omnibrain/svguitar) - Create beautiful SVG guitar chord charts
