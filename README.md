@@ -223,7 +223,7 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Vets-Who-Code/windows-dev-guide](https://github.com/Vets-Who-Code/windows-dev-guide) - The Complete Windows Web Developer Setup Guide
-- [AakashRao-dev/cheatsheets-for-developers](https://github.com/AakashRao-dev/cheatsheets-for-developers) - 📊 Get all of my CSS Cheatsheets from here which I have created & shared on twitter. Thanks for the support. 💜
+- [AakashRao-dev/Cheatsheets-for-Developers](https://github.com/AakashRao-dev/Cheatsheets-for-Developers) - 📊 Get all of my CSS Cheatsheets from here which I have created & shared on twitter. Thanks for the support. 💜
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [AvraamMavridis/Algorithms-Data-Structures-in-Typescript](https://github.com/AvraamMavridis/Algorithms-Data-Structures-in-Typescript) - 
 - [basarat/algorithms-book](https://github.com/basarat/algorithms-book) - The book a CS student can use to refresh their knowledge of Data Structures and Algorithms or just review how to do them in TypeScript
