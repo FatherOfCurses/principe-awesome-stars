@@ -384,6 +384,7 @@
 ## git 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [Vets-Who-Code/windows-dev-guide](https://github.com/Vets-Who-Code/windows-dev-guide) - The Complete Windows Web Developer Setup Guide
 - [lesnitsky/git-tutor](https://github.com/lesnitsky/git-tutor) - :octocat:+md=:heart: Awesome tutorials from your git log
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -641,7 +642,6 @@
 - [Alhadis/language-turing](https://github.com/Alhadis/language-turing) - Turing language support for Atom. :maple_leaf:
 - [Open-Turing-Project/OpenTuring](https://github.com/Open-Turing-Project/OpenTuring) - An open source version of the Windows Turing interpreter. Features speed improvements and new features.
 - [m1guelpf/dapp-starter](https://github.com/m1guelpf/dapp-starter) - The template I use to kickstart all my web3 apps.
-- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic backup and other advanced features in Obsidian.md
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [joshwcomeau/beatmapper](https://github.com/joshwcomeau/beatmapper) - A 3D editor for creating Beat Saber maps
 - [atomicobject/typescript-permissions-demo](https://github.com/atomicobject/typescript-permissions-demo) - 
