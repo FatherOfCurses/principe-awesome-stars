@@ -129,7 +129,7 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [no-chris/chord-symbol](https://github.com/no-chris/chord-symbol) - The definitive chord symbol parser and renderer for Javascript/NodeJS.
-- [saviomartin/codehouse](https://github.com/saviomartin/codehouse) - A whole new world of 300+ developer cheatsheets
+- [saviomartin/codehouse](https://github.com/saviomartin/codehouse) - A whole new world of 300+ developer cheatsheets (discontinued)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [danigb/note-parser](https://github.com/danigb/note-parser) - Parse notes with javascript
 - [saebekassebil/teoria](https://github.com/saebekassebil/teoria) - Javascript taught Music Theory
