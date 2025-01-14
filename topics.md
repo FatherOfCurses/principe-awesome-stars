@@ -663,7 +663,7 @@
 - [alterNERDtive/bindED](https://github.com/alterNERDtive/bindED) - This VoiceAttack plugin reads keybindings in Elite:Dangerous and stores them as VoiceAttack variables.
 - [makerfx/brightbikes](https://github.com/makerfx/brightbikes) - BrightBikes code
 - [ricokahler/hacker-ui](https://github.com/ricokahler/hacker-ui) - A design system for the modern developer. (development on hiatus)
-- [patternfly/patternfly-design-kit](https://github.com/patternfly/patternfly-design-kit) - The PatternFly Design Kit is a Sketch library used for creating PatternFly accurate design mockups
+- [patternfly/patternfly-design-kit](https://github.com/patternfly/patternfly-design-kit) - The PatternFly Design Kit is a Figma library used for creating PatternFly accurate design mockups
 - [patternfly/angular-patternfly](https://github.com/patternfly/angular-patternfly) - This repo contains instructions and the code for a set of Angular 1 components for the PatternFly project.
 - [RobertBroersma/beanheads](https://github.com/RobertBroersma/beanheads) - Easily create characters for your projects
 - [kywagaha/gemini](https://github.com/kywagaha/gemini) - A dope, easy-on-the-eyes, currently-playing viewer for Spotify
