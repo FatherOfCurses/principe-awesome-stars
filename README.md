@@ -233,7 +233,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [ardalis/new-software-project-checklist](https://github.com/ardalis/new-software-project-checklist) - The ultimate new software project decision/question checklist
 - [TechGeek01/Homelab-Ansible](https://github.com/TechGeek01/Homelab-Ansible) - A collection of my Ansible stuffs
-- [patternfly/patternfly-design-kit](https://github.com/patternfly/patternfly-design-kit) - The PatternFly Design Kit is a Sketch library used for creating PatternFly accurate design mockups
+- [patternfly/patternfly-design-kit](https://github.com/patternfly/patternfly-design-kit) - The PatternFly Design Kit is a Figma library used for creating PatternFly accurate design mockups
 - [sapegin/jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) - Jest cheat sheet
 - [TehloWasTaken/HomeDashboard](https://github.com/TehloWasTaken/HomeDashboard) - A requested Github Repo for my Grafana Home Dashboard
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
