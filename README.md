@@ -108,7 +108,6 @@
 
 ## JavaScript 
 
-- [WayneKeenan/ClintonCAT](https://github.com/WayneKeenan/ClintonCAT) - Chrome Browser Extension for automatically searching Rossmann's Consumer Action Taskforce (CAT) articles for the current site being visited.
 - [GagePielsticker/AWS-Api-Template](https://github.com/GagePielsticker/AWS-Api-Template) - A template for starting an AWS based serverless api. This utilizes lambda, api-gateway, WAFv2 and other various services to build a scalable and highly-available api. Deployment of all infrastructure 
 - [webcomponents/custom-elements-everywhere](https://github.com/webcomponents/custom-elements-everywhere) - Custom Element + Framework Interoperability Tests.
 - [uwidev/life-disciplines-projects](https://github.com/uwidev/life-disciplines-projects) - Life-Disciplines-Projects (LDP) is a life-management framework built within Obsidian. Feel free to transform it for your own personal needs.
@@ -288,6 +287,7 @@
 
 ## TypeScript 
 
+- [WayneKeenan/ClintonCAT](https://github.com/WayneKeenan/ClintonCAT) - Chrome Browser Extension for automatically searching Rossmann's Consumer Action Taskforce (CAT) articles for the current site being visited.
 - [codeforboston/police-data-trust](https://github.com/codeforboston/police-data-trust) - A national archive of police data collected by journalists, lawyers, and activists around the country.
 - [vincanger/coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
