@@ -85,7 +85,7 @@
 ## HTML 
 
 - [FrontendMasters/front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024) - A guide to modern front-end web development / engineering.
-- [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material & Prettier :rocket:
+- [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 19 Starter with Storybook, Transloco, Jest, Tailwind, Cypress, Docker, ESLint, Material & Prettier :rocket:
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [briebug/jest-schematic](https://github.com/briebug/jest-schematic) - Angular schematic for adding Jest and the required files to an Angular CLI project
@@ -286,7 +286,7 @@
 
 ## TypeScript 
 
-- [WayneKeenan/ClintonCAT](https://github.com/WayneKeenan/ClintonCAT) - Chrome Browser Extension for automatically searching Rossmann's Consumer Action Taskforce (CAT) articles for the current site being visited.
+- [WayneKeenan/ClintonCAT](https://github.com/WayneKeenan/ClintonCAT) - Browser Extension for automatically searching Rossmann's Consumer Action Taskforce (CAT) articles for the current page being visited.
 - [codeforboston/police-data-trust](https://github.com/codeforboston/police-data-trust) - A national archive of police data collected by journalists, lawyers, and activists around the country.
 - [vincanger/coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
