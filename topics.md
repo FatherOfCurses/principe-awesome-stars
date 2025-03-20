@@ -772,6 +772,7 @@
 
 ## raspberry-pi 
 
+- [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
 - [SomethingWithComputers/pixoo](https://github.com/SomethingWithComputers/pixoo) - A library to help you make the most out of your Pixoo 64 (and hopefully soon other Wi-Fi enabled Pixoos)
 - [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 - [kylejohnsonkj/ft-artwork](https://github.com/kylejohnsonkj/ft-artwork) - View now playing album artwork on an rgb led matrix (raspberry pi project v1)
