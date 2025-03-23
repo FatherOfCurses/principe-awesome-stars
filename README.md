@@ -89,6 +89,7 @@
 - [FrontendMasters/front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024) - A guide to modern front-end web development / engineering.
 - [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 19 Starter with Storybook, Transloco, Jest, Tailwind, Cypress, Docker, ESLint, Material & Prettier :rocket:
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [briebug/jest-schematic](https://github.com/briebug/jest-schematic) - Angular schematic for adding Jest and the required files to an Angular CLI project
 - [uswds/public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
@@ -215,7 +216,7 @@
 ## Others 
 
 - [TfTHacker/DashboardPlusPlus](https://github.com/TfTHacker/DashboardPlusPlus) - Demonstrating the Dashboard++ method of organizing a vault in Obsidian
-- [jrgilbertson/lifelong-learning-system-template](https://github.com/jrgilbertson/lifelong-learning-system-template) - This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.
+- [jrgilbertson/Curate-Connect-Cultivate-Knowledge-System](https://github.com/jrgilbertson/Curate-Connect-Cultivate-Knowledge-System) - This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -231,7 +232,6 @@
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [ardalis/new-software-project-checklist](https://github.com/ardalis/new-software-project-checklist) - The ultimate new software project decision/question checklist
 - [TechGeek01/Homelab-Ansible](https://github.com/TechGeek01/Homelab-Ansible) - A collection of my Ansible stuffs
 - [patternfly/patternfly-design-kit](https://github.com/patternfly/patternfly-design-kit) - The PatternFly Design Kit is a Figma library used for creating PatternFly accurate design mockups
