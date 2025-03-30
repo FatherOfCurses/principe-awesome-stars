@@ -216,7 +216,7 @@
 ## Others 
 
 - [TfTHacker/DashboardPlusPlus](https://github.com/TfTHacker/DashboardPlusPlus) - Demonstrating the Dashboard++ method of organizing a vault in Obsidian
-- [jrgilbertson/Curate-Connect-Cultivate-Knowledge-System](https://github.com/jrgilbertson/Curate-Connect-Cultivate-Knowledge-System) - This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.
+- [jrgilbertson/curate-connect-cultivate-knowledge-system](https://github.com/jrgilbertson/curate-connect-cultivate-knowledge-system) - This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
