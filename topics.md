@@ -123,11 +123,13 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
 - [typescript](#typescript)
+- [ui](#ui)
 - [ui-design](#ui-design)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
@@ -931,6 +933,11 @@
 
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 
+## tailwind 
+
+- [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 19 Starter with Storybook, Transloco, Jest, Tailwind, Cypress, Docker, ESLint, Material & Prettier :rocket:
+- [AhsanAyaz/ng-2048](https://github.com/AhsanAyaz/ng-2048) - The 2048 game built with Angular & Tailwind CSS
+
 ## tailwindcss 
 
 - [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 19 Starter with Storybook, Transloco, Jest, Tailwind, Cypress, Docker, ESLint, Material & Prettier :rocket:
@@ -970,6 +977,11 @@
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
+
+## ui 
+
+- [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
+- [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 
 ## ui-design 
 
