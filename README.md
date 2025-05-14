@@ -249,6 +249,7 @@
 
 ## Python 
 
+- [codeforboston/police-data-trust](https://github.com/codeforboston/police-data-trust) - A national archive of police data collected by journalists, lawyers, and activists around the country.
 - [msambol/dsa](https://github.com/msambol/dsa) - Data structures and algorithms in X minutes. Code examples from my YouTube channel.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -288,7 +289,6 @@
 ## TypeScript 
 
 - [WayneKeenan/ClintonCAT](https://github.com/WayneKeenan/ClintonCAT) - Browser Extension for automatically searching Rossmann's Consumer Action Taskforce (CAT) articles for the current page being visited.
-- [codeforboston/police-data-trust](https://github.com/codeforboston/police-data-trust) - A national archive of police data collected by journalists, lawyers, and activists around the country.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [vincanger/coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
