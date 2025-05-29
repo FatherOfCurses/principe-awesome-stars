@@ -88,7 +88,6 @@
 
 - [FrontendMasters/front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024) - A guide to modern front-end web development / engineering.
 - [wlucha/angular-starter](https://github.com/wlucha/angular-starter) - :rocket: Angular 19 Starter with Storybook, Transloco, Jest, Tailwind, Cypress, Docker, ESLint, Material & Prettier :rocket:
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [briebug/jest-schematic](https://github.com/briebug/jest-schematic) - Angular schematic for adding Jest and the required files to an Angular CLI project
@@ -255,6 +254,7 @@
 - [SomethingWithComputers/pixoo](https://github.com/SomethingWithComputers/pixoo) - A library to help you make the most out of your Pixoo 64 (and hopefully soon other Wi-Fi enabled Pixoos)
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [justvanrossum/nabla](https://github.com/justvanrossum/nabla) - Typearture's Isometric COLRv1 Typeface
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [camerahacks/lightroom-macro-pad](https://github.com/camerahacks/lightroom-macro-pad) - Lightroom Macro Pad With CircuitPython Boards
