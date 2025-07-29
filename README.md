@@ -34,12 +34,12 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
-- [nesC](#nesc)
 
 ## C 
 
 - [Open-Turing-Project/OpenTuring](https://github.com/Open-Turing-Project/OpenTuring) - An open source version of the Windows Turing interpreter. Features speed improvements and new features.
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
+- [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 
 ## C# # 
 
@@ -331,10 +331,6 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [antonreshetov/vue-eva-icons](https://github.com/antonreshetov/vue-eva-icons) - Is a pack of more than 480 beautiful open source Eva icons as Vue components
 - [jonashcroft/Nowify](https://github.com/jonashcroft/Nowify) - A Spotify 'Now Playing' screen designed for Raspberry Pi
-
-## nesC 
-
-- [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 
 
 ## License
