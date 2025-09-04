@@ -64,7 +64,7 @@
 
 ## Dockerfile 
 
-- [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
+- [abhilesh/self-hosted-docker-setups](https://github.com/abhilesh/self-hosted-docker-setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 
 ## Elm 
 
