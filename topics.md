@@ -689,7 +689,7 @@
 - [WebDevSimplified/Learn-GraphQL](https://github.com/WebDevSimplified/Learn-GraphQL) - 
 - [camerahacks/lightroom-macro-pad](https://github.com/camerahacks/lightroom-macro-pad) - Lightroom Macro Pad With CircuitPython Boards
 - [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
-- [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
+- [abhilesh/self-hosted-docker-setups](https://github.com/abhilesh/self-hosted-docker-setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [ardalis/new-software-project-checklist](https://github.com/ardalis/new-software-project-checklist) - The ultimate new software project decision/question checklist
 - [TechGeek01/Homelab-Ansible](https://github.com/TechGeek01/Homelab-Ansible) - A collection of my Ansible stuffs
 - [yiliansource/party-js](https://github.com/yiliansource/party-js) - A JavaScript library to brighten up your user's site experience with visual effects!
