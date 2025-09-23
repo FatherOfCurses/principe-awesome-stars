@@ -146,6 +146,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -1076,6 +1077,10 @@
 - [iaincollins/icarus](https://github.com/iaincollins/icarus) - ICARUS Terminal for Elite Dangerous
 - [Vets-Who-Code/windows-dev-guide](https://github.com/Vets-Who-Code/windows-dev-guide) - The Complete Windows Web Developer Setup Guide
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+
+## zsh 
+
+- [Vets-Who-Code/windows-dev-guide](https://github.com/Vets-Who-Code/windows-dev-guide) - The Complete Windows Web Developer Setup Guide
 
 
 ## License
