@@ -21,6 +21,7 @@
 - [bioinformatics](#bioinformatics)
 - [bootstrap](#bootstrap)
 - [chrome-extension](#chrome-extension)
+- [cloud](#cloud)
 - [code](#code)
 - [code-quality](#code-quality)
 - [coding](#coding)
@@ -239,6 +240,12 @@
 ## chrome-extension 
 
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
+
+## cloud 
+
+- [GagePielsticker/AWS-Api-Template](https://github.com/GagePielsticker/AWS-Api-Template) - A template for starting an AWS based serverless api. This utilizes lambda, api-gateway, WAFv2 and other various services to build a scalable and highly-available api. Deployment of all infrastructure 
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## code 
 
