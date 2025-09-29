@@ -696,7 +696,6 @@
 
 ## others 
 
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [WayneKeenan/ClintonCAT](https://github.com/WayneKeenan/ClintonCAT) - Browser Extension for automatically searching Rossmann's Consumer Action Taskforce (CAT) wiki articles for the current page being visited.
 - [codeforboston/police-data-trust](https://github.com/codeforboston/police-data-trust) - A national archive of police data collected by journalists, lawyers, and activists around the country.
 - [webcomponents/custom-elements-everywhere](https://github.com/webcomponents/custom-elements-everywhere) - Custom Element + Framework Interoperability Tests.
@@ -812,6 +811,7 @@
 
 ## productivity 
 
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [jrgilbertson/curate-connect-cultivate-knowledge-system](https://github.com/jrgilbertson/curate-connect-cultivate-knowledge-system) - This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -985,6 +985,7 @@
 
 ## swift 
 
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [cgoldsby/LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar that responds to text field interactions
 
