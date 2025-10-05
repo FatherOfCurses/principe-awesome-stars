@@ -154,7 +154,7 @@
 - [gregjopa/HTML5-Guitar-Tab-Player](https://github.com/gregjopa/HTML5-Guitar-Tab-Player) - A music player plug-in for Vexflow
 - [nearform/react-animation](https://github.com/nearform/react-animation) - Animation components and styles for React projects
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
-- [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
+- [CodecrumbsIO/codecrumbs](https://github.com/CodecrumbsIO/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 - [franz101/react-boiler-plate](https://github.com/franz101/react-boiler-plate) - Save time. Eat bananas.
 - [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
 - [ebradyjobory/finance.js](https://github.com/ebradyjobory/finance.js) - A JavaScript library for common financial calculations
