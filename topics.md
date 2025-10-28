@@ -697,7 +697,7 @@
 
 ## others 
 
-- [WayneKeenan/ClintonCAT](https://github.com/WayneKeenan/ClintonCAT) - Browser Extension for automatically searching Rossmann's Consumer Action Taskforce (CAT) wiki articles for the current page being visited.
+- [WayneKeenan/ClintonCAT](https://github.com/WayneKeenan/ClintonCAT) - Development has moved to the FULU Foundation here: https://github.com/FULU-Foundation/CRW-Extension
 - [codeforboston/police-data-trust](https://github.com/codeforboston/police-data-trust) - A national archive of police data collected by journalists, lawyers, and activists around the country.
 - [webcomponents/custom-elements-everywhere](https://github.com/webcomponents/custom-elements-everywhere) - Custom Element + Framework Interoperability Tests.
 - [Pamela-Wang/Obsidian-Starter-Vaults](https://github.com/Pamela-Wang/Obsidian-Starter-Vaults) - This repo contains the templates used in my automated obsidian weekly review video and also an accompanying vault with the folder structure expected and plugins (periodic note settings etc)
