@@ -672,7 +672,7 @@
 ## obsidian 
 
 - [uwidev/life-disciplines-projects](https://github.com/uwidev/life-disciplines-projects) - Life-Disciplines-Projects (LDP) is a life-management framework built within Obsidian. Feel free to transform it for your own personal needs.
-- [jrgilbertson/curate-connect-cultivate-knowledge-system](https://github.com/jrgilbertson/curate-connect-cultivate-knowledge-system) - This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.
+- [jrgilbertson/networked-thinking](https://github.com/jrgilbertson/networked-thinking) - This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 
 ## obsidian-md 
@@ -814,7 +814,7 @@
 
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
-- [jrgilbertson/curate-connect-cultivate-knowledge-system](https://github.com/jrgilbertson/curate-connect-cultivate-knowledge-system) - This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.
+- [jrgilbertson/networked-thinking](https://github.com/jrgilbertson/networked-thinking) - This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## programming 
