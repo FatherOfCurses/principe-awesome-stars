@@ -293,7 +293,7 @@
 
 ## csharp 
 
-- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10
 
 ## css 
 
@@ -376,7 +376,7 @@
 
 ## dotnet 
 
-- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10
 
 ## education 
 
@@ -485,7 +485,7 @@
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 - [ankythshukla/underexpress](https://github.com/ankythshukla/underexpress) - A free, responsive, ready to use website ui kit, built with bootstrap 4.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10
 
 ## html 
 
