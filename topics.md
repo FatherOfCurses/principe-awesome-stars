@@ -697,6 +697,7 @@
 
 ## others 
 
+- [fatihak/PrestoDeck](https://github.com/fatihak/PrestoDeck) - Spotify cover art display and music player for the Pimoroni Presto
 - [BrianInGermany/ToastmastersTimerWiFi](https://github.com/BrianInGermany/ToastmastersTimerWiFi) - Timer for Toastmasters Speeches using ESP8266 and a 64x32 Led Matrix
 - [WayneKeenan/ClintonCAT](https://github.com/WayneKeenan/ClintonCAT) - Development has moved to the FULU Foundation here: https://github.com/FULU-Foundation/CRW-Extension
 - [codeforboston/police-data-trust](https://github.com/codeforboston/police-data-trust) - A national archive of police data collected by journalists, lawyers, and activists around the country.
