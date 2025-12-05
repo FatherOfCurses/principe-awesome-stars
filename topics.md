@@ -644,6 +644,7 @@
 
 ## music 
 
+- [Daninet/mtxt](https://github.com/Daninet/mtxt) - A human-writable text format for musical notes, timing, and expression.
 - [no-chris/chord-symbol](https://github.com/no-chris/chord-symbol) - The definitive chord symbol parser and renderer for Javascript/NodeJS.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 
