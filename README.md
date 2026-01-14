@@ -43,7 +43,6 @@
 
 ## C# # 
 
-- [alterNERDtive/bindED](https://github.com/alterNERDtive/bindED) - This VoiceAttack plugin reads keybindings in Elite:Dangerous and stores them as VoiceAttack variables.
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10
 
 ## C++ 
