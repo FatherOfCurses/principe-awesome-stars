@@ -753,7 +753,6 @@
 - [saebekassebil/teoria](https://github.com/saebekassebil/teoria) - Javascript taught Music Theory
 - [0xfe/vextab](https://github.com/0xfe/vextab) - A VexTab Parser for VexFlow
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
-- [alterNERDtive/bindED](https://github.com/alterNERDtive/bindED) - This VoiceAttack plugin reads keybindings in Elite:Dangerous and stores them as VoiceAttack variables.
 - [makerfx/brightbikes](https://github.com/makerfx/brightbikes) - BrightBikes code
 - [ricokahler/hacker-ui](https://github.com/ricokahler/hacker-ui) - A design system for the modern developer. (development on hiatus)
 - [patternfly/patternfly-design-kit](https://github.com/patternfly/patternfly-design-kit) - The PatternFly Design Kit is a Figma library used for creating PatternFly accurate design mockups
