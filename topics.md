@@ -724,6 +724,7 @@
 
 ## others 
 
+- [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) - See which of your LinkedIn connections appear in the Epstein files.
 - [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay) - An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
 - [fatihak/PrestoDeck](https://github.com/fatihak/PrestoDeck) - Spotify cover art display and music player for the Pimoroni Presto
 - [BrianInGermany/ToastmastersTimerWiFi](https://github.com/BrianInGermany/ToastmastersTimerWiFi) - Timer for Toastmasters Speeches using ESP8266 and a 64x32 Led Matrix
