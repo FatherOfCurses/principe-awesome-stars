@@ -204,6 +204,7 @@
 - [GagePielsticker/AWS-Api-Template](https://github.com/GagePielsticker/AWS-Api-Template) - A template for starting an AWS based serverless api. This utilizes lambda, api-gateway, WAFv2 and other various services to build a scalable and highly-available api. Deployment of all infrastructure 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [CharlesMangwa/react-data-fetching](https://github.com/CharlesMangwa/react-data-fetching) - 🎣 Declarative data fetching for React.
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 ## arduino 
 
@@ -451,6 +452,7 @@
 ## frontend 
 
 - [FrontendMasters/front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024) - A guide to modern front-end web development / engineering.
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 ## git 
 
@@ -588,6 +590,7 @@
 ## json 
 
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 ## kubernetes 
 
@@ -800,7 +803,6 @@
 - [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 - [AdityaGupta1/minecraft-modding-book](https://github.com/AdityaGupta1/minecraft-modding-book) - The repository for the Minecraft Modding book by O-Reilly.
 - [sdeleuze/webflux-kotlin-web-tests](https://github.com/sdeleuze/webflux-kotlin-web-tests) - This projects shows how to use @WebTestClient with Kotlin and a WebFlux server (annotation or functional)
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [douglascraigschmidt/LiveLessons](https://github.com/douglascraigschmidt/LiveLessons) - This repository contains all the source code examples from my LiveLessons course on "Java Concurrent Programming" and my various LiveTraining courses, as described at http://www.dre.vanderbilt.edu/~sc
 - [kousen/java_8_recipes](https://github.com/kousen/java_8_recipes) - Source code for Modern Java Recipes book from O'Reilly
 - [kousen/Spring-Framework-Essentials](https://github.com/kousen/Spring-Framework-Essentials) - Projects used in Spring Framework Essentials video course
