@@ -291,6 +291,7 @@
 
 ## TypeScript 
 
+- [FULU-Foundation/CRW-Extension](https://github.com/FULU-Foundation/CRW-Extension) - Browser extension that shows a popup and notifications when the site, product, or service you're viewing has an article on the Consumer Rights Wiki.
 - [WayneKeenan/ClintonCAT](https://github.com/WayneKeenan/ClintonCAT) - Development has moved to the FULU Foundation here: https://github.com/FULU-Foundation/CRW-Extension
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [vincanger/coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
