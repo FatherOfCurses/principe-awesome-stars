@@ -164,7 +164,7 @@
 ## ai 
 
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 
 ## algorithm 
 
@@ -303,7 +303,7 @@
 
 ## computer-vision 
 
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## continuous-integration 
@@ -323,7 +323,7 @@
 
 - [joe-bell/loading-disco](https://github.com/joe-bell/loading-disco) - An alternative to the loading spinner 🪩
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
-- [AakashRao-dev/Cheatsheets-for-Developers](https://github.com/AakashRao-dev/Cheatsheets-for-Developers) - 📊 Get all of my CSS Cheatsheets from here which I have created & shared on twitter. Thanks for the support. 💜
+- [CrazeDoc/Cheatsheets-for-Developers](https://github.com/CrazeDoc/Cheatsheets-for-Developers) - 📊 Get all of my CSS Cheatsheets from here which I have created & shared on twitter. Thanks for the support. 💜
 - [code-with-ahsan/js-beginner-workspace](https://github.com/code-with-ahsan/js-beginner-workspace) - 
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit) - React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
@@ -619,11 +619,11 @@
 ## llm 
 
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 
 ## machine-learning 
 
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 
