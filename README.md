@@ -275,7 +275,7 @@
 ## Rust 
 
 - [Daninet/mtxt](https://github.com/Daninet/mtxt) - A human-writable text format for musical notes, timing, and expression.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 ## SCSS 
@@ -285,6 +285,7 @@
 
 ## Shell 
 
+- [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 
 ## Swift 
