@@ -737,6 +737,7 @@
 
 ## others 
 
+- [devenjarvis/lathe](https://github.com/devenjarvis/lathe) - Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [kylemcdonald/ews](https://github.com/kylemcdonald/ews) - 
 - [pcruz1905/hls-restream-proxy](https://github.com/pcruz1905/hls-restream-proxy) - Lightweight HLS restream proxy for Jellyfin/Emby/Plex — injects headers, rewrites playlists, auto-refreshes tokens
