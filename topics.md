@@ -78,6 +78,7 @@
 - [js](#js)
 - [json](#json)
 - [kubernetes](#kubernetes)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -604,6 +605,11 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 
+## learn-to-code 
+
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+- [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
+
 ## learning 
 
 - [brettchalupa/projectbook](https://github.com/brettchalupa/projectbook) - 100+ project ideas with specifications, mock-ups, and assets for learning any programming language
@@ -635,6 +641,7 @@
 
 ## macos 
 
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -822,7 +829,6 @@
 - [drcmda/react-animated-tree](https://github.com/drcmda/react-animated-tree) - 🌲Simple to use, configurable tree view with full support for drop-in animations
 - [sbayd/react-flippy](https://github.com/sbayd/react-flippy) - Flipping Cards for your React Projects. React-Flippy allows you to create flipper event with your content.
 - [kenwalger/getting-mean](https://github.com/kenwalger/getting-mean) - Project code for tutorial talk at MDBW18.
-- [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 - [AdityaGupta1/minecraft-modding-book](https://github.com/AdityaGupta1/minecraft-modding-book) - The repository for the Minecraft Modding book by O-Reilly.
 - [sdeleuze/webflux-kotlin-web-tests](https://github.com/sdeleuze/webflux-kotlin-web-tests) - This projects shows how to use @WebTestClient with Kotlin and a WebFlux server (annotation or functional)
 - [douglascraigschmidt/LiveLessons](https://github.com/douglascraigschmidt/LiveLessons) - This repository contains all the source code examples from my LiveLessons course on "Java Concurrent Programming" and my various LiveTraining courses, as described at http://www.dre.vanderbilt.edu/~sc
