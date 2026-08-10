@@ -756,7 +756,7 @@
 
 ## others 
 
-- [HorizonRepublic/fh6-paint-studio](https://github.com/HorizonRepublic/fh6-paint-studio) - Reconstruct any image as filled shapes to build Forza Horizon 6 vinyl liveries. GPU-accelerated (Go + CUDA)
+- [HorizonRepublic/fh6-paint-studio](https://github.com/HorizonRepublic/fh6-paint-studio) - Reconstruct any image as filled shapes to build Forza Horizon 6 vinyl liveries. GPU-accelerated
 - [devenjarvis/lathe](https://github.com/devenjarvis/lathe) - Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [kylemcdonald/ews](https://github.com/kylemcdonald/ews) - 
