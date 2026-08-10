@@ -75,7 +75,7 @@
 
 ## Go 
 
-- [HorizonRepublic/fh6-paint-studio](https://github.com/HorizonRepublic/fh6-paint-studio) - Reconstruct any image as filled shapes to build Forza Horizon 6 vinyl liveries. GPU-accelerated (Go + CUDA)
+- [HorizonRepublic/fh6-paint-studio](https://github.com/HorizonRepublic/fh6-paint-studio) - Reconstruct any image as filled shapes to build Forza Horizon 6 vinyl liveries. GPU-accelerated
 - [devenjarvis/lathe](https://github.com/devenjarvis/lathe) - Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
