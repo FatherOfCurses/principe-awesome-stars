@@ -56,6 +56,7 @@
 - [eslint](#eslint)
 - [finance](#finance)
 - [flask](#flask)
+- [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
 - [frameworks](#frameworks)
@@ -449,6 +450,10 @@
 
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 
+## flutter 
+
+- [HorizonRepublic/fh6-paint-studio](https://github.com/HorizonRepublic/fh6-paint-studio) - Reconstruct any image as filled shapes to build Forza Horizon 6 vinyl liveries. GPU-accelerated
+
 ## font 
 
 - [justvanrossum/nabla](https://github.com/justvanrossum/nabla) - Typearture's Isometric COLRv1 Typeface
@@ -495,6 +500,7 @@
 
 ## golang 
 
+- [HorizonRepublic/fh6-paint-studio](https://github.com/HorizonRepublic/fh6-paint-studio) - Reconstruct any image as filled shapes to build Forza Horizon 6 vinyl liveries. GPU-accelerated
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
@@ -756,7 +762,6 @@
 
 ## others 
 
-- [HorizonRepublic/fh6-paint-studio](https://github.com/HorizonRepublic/fh6-paint-studio) - Reconstruct any image as filled shapes to build Forza Horizon 6 vinyl liveries. GPU-accelerated
 - [devenjarvis/lathe](https://github.com/devenjarvis/lathe) - Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [kylemcdonald/ews](https://github.com/kylemcdonald/ews) - 
