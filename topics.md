@@ -733,7 +733,7 @@
 ## obsidian 
 
 - [uwidev/life-disciplines-projects](https://github.com/uwidev/life-disciplines-projects) - Life-Disciplines-Projects (LDP) is a life-management framework built within Obsidian. Feel free to transform it for your own personal needs.
-- [jrgilbertson/networked-thinking](https://github.com/jrgilbertson/networked-thinking) - This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.
+- [jrgilbertson/networked-thinking](https://github.com/jrgilbertson/networked-thinking) - A curated teaching version of the Networked Thinking method in Obsidian, with notes, templates, and examples you can inspect before you build your own.
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 
 ## obsidian-md 
@@ -888,7 +888,7 @@
 
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
-- [jrgilbertson/networked-thinking](https://github.com/jrgilbertson/networked-thinking) - This repository is a getting started kit for a lifelong learning system with Obsidian and Anki.
+- [jrgilbertson/networked-thinking](https://github.com/jrgilbertson/networked-thinking) - A curated teaching version of the Networked Thinking method in Obsidian, with notes, templates, and examples you can inspect before you build your own.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## programming 
