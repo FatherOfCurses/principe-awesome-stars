@@ -217,7 +217,7 @@
 
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [TfTHacker/DashboardPlusPlus](https://github.com/TfTHacker/DashboardPlusPlus) - Demonstrating the Dashboard++ method of organizing a vault in Obsidian
-- [jrgilbertson/networked-thinking](https://github.com/jrgilbertson/networked-thinking) - A curated teaching version of the Networked Thinking method in Obsidian, with notes, templates, and examples you can inspect before you build your own.
+- [jrgilbertson/networked-thinking](https://github.com/jrgilbertson/networked-thinking) - An Obsidian companion vault for putting Networked Thinking into practice, with the notes, templates, and folder structure from the book.
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
