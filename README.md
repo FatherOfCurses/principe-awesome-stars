@@ -111,6 +111,7 @@
 
 ## JavaScript 
 
+- [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
 - [kylemcdonald/ews](https://github.com/kylemcdonald/ews) - 
 - [GagePielsticker/AWS-Api-Template](https://github.com/GagePielsticker/AWS-Api-Template) - A template for starting an AWS based serverless api. This utilizes lambda, api-gateway, WAFv2 and other various services to build a scalable and highly-available api. Deployment of all infrastructure 
 - [webcomponents/custom-elements-everywhere](https://github.com/webcomponents/custom-elements-everywhere) - Custom Element + Framework Interoperability Tests.
