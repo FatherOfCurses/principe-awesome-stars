@@ -37,6 +37,7 @@
 
 ## C 
 
+- [HorizonRepublic/fh6-paint-studio](https://github.com/HorizonRepublic/fh6-paint-studio) - Reconstruct any image as filled shapes to build Forza Horizon 6 vinyl liveries. GPU-accelerated
 - [Open-Turing-Project/OpenTuring](https://github.com/Open-Turing-Project/OpenTuring) - An open source version of the Windows Turing interpreter. Features speed improvements and new features.
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
 - [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
@@ -75,7 +76,6 @@
 
 ## Go 
 
-- [HorizonRepublic/fh6-paint-studio](https://github.com/HorizonRepublic/fh6-paint-studio) - Reconstruct any image as filled shapes to build Forza Horizon 6 vinyl liveries. GPU-accelerated
 - [devenjarvis/lathe](https://github.com/devenjarvis/lathe) - Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
