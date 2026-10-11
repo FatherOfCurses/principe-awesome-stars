@@ -65,6 +65,7 @@
 - [framework](#framework)
 - [frameworks](#frameworks)
 - [frontend](#frontend)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -111,6 +112,7 @@
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
+- [osint](#osint)
 - [others](#others)
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
@@ -453,7 +455,7 @@
 
 ## education 
 
-- [brettchalupa/projectbook](https://github.com/brettchalupa/projectbook) - 100+ project ideas with specifications, mock-ups, and assets for learning any programming language
+- [brettchalupa/projectbook](https://github.com/brettchalupa/projectbook) - 100+ project ideas with specifications, mock-ups, and assets for learning any programming language [mirror from https://codeberg.org/brettchalupa/projectbook]
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 
@@ -508,6 +510,10 @@
 
 - [FrontendMasters/front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024) - A guide to modern front-end web development / engineering.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+
+## gis 
+
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
 ## git 
 
@@ -667,7 +673,7 @@
 
 ## learning 
 
-- [brettchalupa/projectbook](https://github.com/brettchalupa/projectbook) - 100+ project ideas with specifications, mock-ups, and assets for learning any programming language
+- [brettchalupa/projectbook](https://github.com/brettchalupa/projectbook) - 100+ project ideas with specifications, mock-ups, and assets for learning any programming language [mirror from https://codeberg.org/brettchalupa/projectbook]
 - [CodecrumbsIO/codecrumbs](https://github.com/CodecrumbsIO/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 
 ## library 
@@ -803,6 +809,10 @@
 ## opencv 
 
 - [reuterbal/photobooth](https://github.com/reuterbal/photobooth) - A flexible photobooth software
+
+## osint 
+
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
 ## others 
 
