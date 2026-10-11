@@ -104,7 +104,7 @@
 
 ## Handlebars 
 
-- [brettchalupa/projectbook](https://github.com/brettchalupa/projectbook) - 100+ project ideas with specifications, mock-ups, and assets for learning any programming language
+- [brettchalupa/projectbook](https://github.com/brettchalupa/projectbook) - 100+ project ideas with specifications, mock-ups, and assets for learning any programming language [mirror from https://codeberg.org/brettchalupa/projectbook]
 
 ## Java 
 
@@ -117,6 +117,7 @@
 
 ## JavaScript 
 
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
 - [kylemcdonald/ews](https://github.com/kylemcdonald/ews) - 
 - [GagePielsticker/AWS-Api-Template](https://github.com/GagePielsticker/AWS-Api-Template) - A template for starting an AWS based serverless api. This utilizes lambda, api-gateway, WAFv2 and other various services to build a scalable and highly-available api. Deployment of all infrastructure 
