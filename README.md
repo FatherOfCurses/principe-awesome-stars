@@ -321,7 +321,7 @@
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [vincanger/coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [resolvetosavelives/healthicons](https://github.com/resolvetosavelives/healthicons) - A collection of open source icons for public health projects.
+- [resolvetosavelives/healthicons](https://github.com/resolvetosavelives/healthicons) - A collection of free, open source icons for health projects.
 - [mehulmpt/ghost-cms-nextjs](https://github.com/mehulmpt/ghost-cms-nextjs) - 
 - [m1guelpf/dapp-starter](https://github.com/m1guelpf/dapp-starter) - The template I use to kickstart all my web3 apps.
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
