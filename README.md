@@ -332,7 +332,7 @@
 - [AhsanAyaz/ng-2048](https://github.com/AhsanAyaz/ng-2048) - The 2048 game built with Angular & Tailwind CSS
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [zuramai/starback.js](https://github.com/zuramai/starback.js) - Create a beautiful star falling background with starback.js
-- [yiliansource/party-js](https://github.com/yiliansource/party-js) - A JavaScript library to brighten up your user's site experience with visual effects!
+- [yiliansource/party-js](https://github.com/yiliansource/party-js) - Out-of-the-box confetti and sparkles — and the particle engine behind them.
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [ricokahler/hacker-ui](https://github.com/ricokahler/hacker-ui) - A design system for the modern developer. (development on hiatus)
 - [RobertBroersma/beanheads](https://github.com/RobertBroersma/beanheads) - Easily create characters for your projects
