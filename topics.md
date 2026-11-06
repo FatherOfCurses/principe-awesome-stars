@@ -915,7 +915,6 @@
 - [abhilesh/self-hosted-docker-setups](https://github.com/abhilesh/self-hosted-docker-setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [ardalis/new-software-project-checklist](https://github.com/ardalis/new-software-project-checklist) - The ultimate new software project decision/question checklist
 - [TechGeek01/Homelab-Ansible](https://github.com/TechGeek01/Homelab-Ansible) - A collection of my Ansible stuffs
-- [yiliansource/party-js](https://github.com/yiliansource/party-js) - A JavaScript library to brighten up your user's site experience with visual effects!
 - [danigb/note-parser](https://github.com/danigb/note-parser) - Parse notes with javascript
 - [saebekassebil/teoria](https://github.com/saebekassebil/teoria) - Javascript taught Music Theory
 - [0xfe/vextab](https://github.com/0xfe/vextab) - A VexTab Parser for VexFlow
@@ -1247,6 +1246,7 @@
 - [AhsanAyaz/ng-2048](https://github.com/AhsanAyaz/ng-2048) - The 2048 game built with Angular & Tailwind CSS
 - [AvraamMavridis/Algorithms-Data-Structures-in-Typescript](https://github.com/AvraamMavridis/Algorithms-Data-Structures-in-Typescript) - 
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+- [yiliansource/party-js](https://github.com/yiliansource/party-js) - Out-of-the-box confetti and sparkles — and the particle engine behind them.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [omnibrain/svguitar](https://github.com/omnibrain/svguitar) - Create beautiful SVG guitar chord charts
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
