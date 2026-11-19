@@ -158,6 +158,7 @@
 - [spring](#spring)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
+- [static-site-generator](#static-site-generator)
 - [storybook](#storybook)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -1205,6 +1206,10 @@
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [Vets-Who-Code/windows-dev-guide](https://github.com/Vets-Who-Code/windows-dev-guide) - The Complete Windows Web Developer Setup Guide
+
+## static-site-generator 
+
+- [artagnon/clayoven](https://github.com/artagnon/clayoven) - 💎 beautiful website generator aimed at math-heavy sites
 
 ## storybook 
 
