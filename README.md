@@ -145,7 +145,6 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [danigb/note-parser](https://github.com/danigb/note-parser) - Parse notes with javascript
 - [saebekassebil/teoria](https://github.com/saebekassebil/teoria) - Javascript taught Music Theory
-- [0xfe/vextab](https://github.com/0xfe/vextab) - A VexTab Parser for VexFlow
 - [patternfly/angular-patternfly](https://github.com/patternfly/angular-patternfly) - This repo contains instructions and the code for a set of Angular 1 components for the PatternFly project.
 - [atomiks/tippyjs-react](https://github.com/atomiks/tippyjs-react) - React component for Tippy.js (official)
 - [wonday/react-native-pdf](https://github.com/wonday/react-native-pdf) - A &lt;Pdf /&gt; component for react-native
@@ -334,6 +333,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [zuramai/starback.js](https://github.com/zuramai/starback.js) - Create a beautiful star falling background with starback.js
 - [yiliansource/party-js](https://github.com/yiliansource/party-js) - Out-of-the-box confetti and sparkles — and the particle engine behind them.
+- [0xfe/vextab](https://github.com/0xfe/vextab) - A VexTab Parser for VexFlow
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [ricokahler/hacker-ui](https://github.com/ricokahler/hacker-ui) - A design system for the modern developer. (development on hiatus)
 - [RobertBroersma/beanheads](https://github.com/RobertBroersma/beanheads) - Easily create characters for your projects
